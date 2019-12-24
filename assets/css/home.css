@@ -1,0 +1,103 @@
+.btn-group-xs > .btn, .btn-xs {
+  padding: .25rem .4rem;
+  font-size: .875rem;
+  line-height: .5;
+  border-radius: .2rem;
+}
+
+.card .link {
+	color: white;
+}
+
+.card img {
+	max-height: 150px;
+	max-width: 150px;
+}
+
+.card-body {
+	margin-top: -25px;
+}
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+	  font-size: 3.5rem;
+	}
+}
+
+/* Custom CSS */
+main > .container {
+  padding: 60px 15px 0;
+}
+
+main > .container-fluid {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  background-color: #f5f5f5;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+/* Modal Content*/
+.main-section{
+	margin: 0 auto;
+	margin-top:100px;
+	background-color: #fff;
+	border-radius: 5px;
+	padding: 0px;
+}
+.user-img{
+	margin-top:-50px;
+}
+.user-img img{
+	height: 100px;
+	width: 100px;
+}
+.user-name{
+	margin:10px 0px;
+}
+.user-name h1{
+	font-size:30px;
+	color:#676363;
+}
+.user-name button{
+	position: absolute;	
+	top:-50px;
+	right:20px;
+	font-size:30px;
+}
+.form-input button{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.link-part{
+	border-radius:0px 0px 5px 5px;
+	background-color: #ECF0F1;
+	padding:15px;
+	border-top:1px solid #c2c2c2;
+}
+.open-modal{
+	margin-top:100px !important;
+}
+
+.head-card {
+	margin-top: 20px;
+}
+
