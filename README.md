@@ -7,7 +7,7 @@ PHP Face-recognition is a program created for php-based face recognition in coll
 3. Install library face_recognition with pip.
 4. Git clone this repository
 
-Setting :
+# Setting :
 1. Train & Test your data with face_recognition, you can see the docs of face_recognition.
 2. Configure capture.php function exec() :
 
